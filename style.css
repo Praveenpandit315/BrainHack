@@ -1,5 +1,4 @@
 
-/* Chat FAB */
 #chatFab {
   position: fixed; bottom: 28px; right: 28px; z-index: 8000;
   width: 62px; height: 62px; border-radius: 50%; cursor: pointer;
